@@ -18,6 +18,6 @@ proteomics or metabolomics, presents multiple challenges such as the high-dimens
 
 # References
 
-Daisy Yi Ding, Shuangning Li, Balasubramanian Narasimhan, Robert Tibshirani. Cooperative Learning for Multi-view Analysis. 2022. [[link]]([https://link-url-here.org](https://arxiv.org/abs/2112.12337))
+Daisy Yi Ding, Shuangning Li, Balasubramanian Narasimhan, Robert Tibshirani. Cooperative Learning for Multi-view Analysis. 2022. [[link]](https://arxiv.org/abs/2112.12337)
 
-Robert Tibshirani, Jerome Friedman. A Pliable Lasso. 2019. [[link]]([https://link-url-here.org](https://arxiv.org/abs/1712.00484)https://arxiv.org/abs/1712.00484)
+Robert Tibshirani, Jerome Friedman. A Pliable Lasso. 2019. [[link]](https://arxiv.org/abs/1712.00484)
